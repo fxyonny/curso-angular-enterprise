@@ -24,11 +24,20 @@
   },
   "projects": {
     "home": {
-      "tags": []
+      "tags": ["scope:public"]
     },
     "home-e2e": {
       "tags": [],
       "implicitDependencies": ["home"]
+    },
+    "models": {
+      "tags": []
+    },
+    "ui": {
+      "tags": []
+    },
+    "services": {
+      "tags": []
     }
   }
 }

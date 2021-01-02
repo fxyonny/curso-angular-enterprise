@@ -1,0 +1,1 @@
+export type Role = 'standard' | 'warning' | 'simple' | 'default';
